@@ -1,0 +1,2 @@
+# TiendaBeta-Primer-proyecto-de-comercio-electr-nico
+**TiendaBeta** es un proyecto práctico de comercio electrónico donde pondré en práctica conceptos de desarrollo web, desde el frontend hasta el backend. Incluye características como catálogo de productos, carrito de compras, gestión de usuarios y (opcionalmente) pasarela de pago. Con este repositorio, busco aprender, experimentar con la programació
