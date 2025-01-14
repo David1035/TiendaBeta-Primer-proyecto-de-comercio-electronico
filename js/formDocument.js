@@ -109,6 +109,7 @@ function copiarDatos () {
 function limpiarDatosForm () {
     document.getElementById('id-llamada').value = '';
     document.getElementById('smnet').value = '';
+    document.getElementById('name').value = '';
     document.getElementById('observaciones').value = '';
     document.getElementById('tecnology').value = '';
     document.getElementById('tipoServicio').value = '';
